@@ -17,9 +17,9 @@ class Exam{
         else{
             System.out.println(c+" is the greatest number.");
         }
-        int sum=a+b+c;
-        System.out.println("sum = "+sum);
-        int avg=sum/3;
-        System.out.println("Average = "+avg);
+        // int sum=a+b+c;
+        // System.out.println("sum = "+sum);
+        // int avg=sum/3;
+        // System.out.println("Average = "+avg);
     }
 }
